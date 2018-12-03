@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mmu.Mlh.DataAccess.Rest", "Sources\Application\Mmu.Mlh.DataAccess.Rest.csproj", "{87ACB3F6-06E4-42DE-BE56-CEA1FF3C08A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mmu.Mlh.DataAccess.Rest.TestConsole2", "Sources\TestConsole2\Mmu.Mlh.DataAccess.Rest.TestConsole2.csproj", "{7B226C33-646A-43E8-BF78-A35C4BB8A975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87ACB3F6-06E4-42DE-BE56-CEA1FF3C08A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87ACB3F6-06E4-42DE-BE56-CEA1FF3C08A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87ACB3F6-06E4-42DE-BE56-CEA1FF3C08A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87ACB3F6-06E4-42DE-BE56-CEA1FF3C08A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B226C33-646A-43E8-BF78-A35C4BB8A975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B226C33-646A-43E8-BF78-A35C4BB8A975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B226C33-646A-43E8-BF78-A35C4BB8A975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B226C33-646A-43E8-BF78-A35C4BB8A975}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1B91E1E-F2F2-4CF9-B588-6903F1D85A89}
+	EndGlobalSection
+EndGlobal
