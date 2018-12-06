@@ -23,4 +23,8 @@
     <PackageReference Include="Mmu.Mlh.RestExtensions" Version="3.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Infrastructure\Assets\" />
+  </ItemGroup>
+
 </Project>
